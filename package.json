@@ -1,0 +1,26 @@
+{
+  "name": "curso-cypress-percy",
+  "version": "1.0.0",
+  "description": "Repositório do curso básico de testes de regressão visual com Cypress e Percy da [Escola Talking About Testing](https://talkingabouttesting.coursify.me).",
+  "main": "index.js",
+  "scripts": {
+    "test": "percy exec -- cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarinaGouveia/curso-cypress-percy.git"
+  },
+  "keywords": [ "cypress","percy"],
+  "author": "Carina Gouveia <carinagouveiabarros@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarinaGouveia/curso-cypress-percy/issues"
+  },
+  "homepage": "https://github.com/CarinaGouveia/curso-cypress-percy#readme",
+  "devDependencies": {
+    "@percy/cli": "^1.8.0",
+    "@percy/cypress": "^3.1.2",
+    "cypress": "^9.0.0"
+  }
+}
+
