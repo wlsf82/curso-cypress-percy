@@ -16,8 +16,6 @@
  * @type {Cypress.PluginConfig}
  */
 // eslint-disable-next-line no-unused-vars
-let percyHealthCheck = require('@percy/cypress/task')
 
-module.exports = (on, config) => {
-  on("task", percyHealthCheck)
-}
+
+module.exports = (on, config) => {}
