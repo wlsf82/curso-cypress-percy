@@ -51,7 +51,7 @@ Testando outras variações
     <br>- Criação do teste de preenchimento do formulário com um e-mail inválido<br>
     - Criação do teste de preenchimento de todos os campos obrigatórios do formulário<br>
     - Criação do teste de seleção de mais de um ticket VIP<br>
-    - Execuação dos novos teste<br>
+    - Execução dos novos testes<br>
     - Aprovação das novas snapshots no dashboard do Percy
 </details>
 
@@ -87,4 +87,4 @@ Fechamento
 
 ___
 
-Um curso da [Escola Talking About Testing](https://talkingabouttesting.coursify.me).
+Um curso da [Escola Talking About Testing](https://www.udemy.com/user/walmyr).
