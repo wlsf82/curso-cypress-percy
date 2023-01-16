@@ -34,4 +34,4 @@ Execute `npm test` para executar os testes em modo _headless_.
 
 ___
 
-Um curso da [Escola Talking About Testing](https://talkingabouttesting.coursify.me).
+Um curso da [Escola Talking About Testing](https://www.udemy.com/user/walmyr).
