@@ -10,7 +10,7 @@ Setup inicial
   <summary>Conteúdo da aula</summary>
     <br>- Clone do projeto (git clone git@github.com:wlsf82/curso-cypress-percy.git)<br>
     - Inicialização de um projeto Node.js (npm init -y)<br>
-    - Atuazação da licença (MIT), script de teste (percy exec -- cypress run), keywords (cypress, percy) e autor (nome, email e website)<br>
+    - Atualização da licença (MIT), script de teste (percy exec -- cypress run), keywords (cypress, percy) e autor (nome, email e website)<br>
     - Instalação do Cypress e Percy (npm i cypress @percy/cypress -D)<br>
     - Inicialização do Cypress (npx cypress open) e sua estrutura de arquivos e diretórios<br>
     - Atualização do arquivo .gitignore (cypress/screenshots/ e cypress/videos/)<br>
